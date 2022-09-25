@@ -1,6 +1,6 @@
 # Hello! 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/778492891507982347)](https://discord.com/users/778492891507982347)
+[![Discord Presence](https://lanyard.cnrad.dev/api/778492891507982347borderRadius=30px)](https://discord.com/users/778492891507982347)
 
 ## About me
 
