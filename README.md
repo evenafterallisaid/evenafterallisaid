@@ -7,9 +7,9 @@
 <details><summary>My bio ?</summary>
 <p>
   
-- <img src="https://cdn.discordapp.com/attachments/1016340658237227068/1023253446738055168/1f1ec-1f1e7.png" alt="." width="16" height="16"/> Student from Vietnam  
+- <img src="https://cdn.discordapp.com/attachments/1016340658237227068/1023253446738055168/1f1ec-1f1e7.png" alt="." width="16" height="16"/> Idiot from the U.K.  
 - <img src="https://cdn.discordapp.com/emojis/952436840730861638.png" alt="." width="16" height="16"/> Discord.js Programmer 
-- <img src="https://tenor.com/view/zoomer-tide-pods-eating-snack-glasses-gif-16629132" alt="."  width="16" height="16" /> I am a 14 year old zoomer 
+- <img src="https://tenor.com/view/zoomer-tide-pods-eating-snack-glasses-gif-16629132.gif" alt="."  width="16" height="16" /> I am a 14 year old zoomer 
 - 🎮 I play Open-world, FPS Games, Rhythm <img src="https://cdn.discordapp.com/attachments/1016340658237227068/1023256248893837352/images_ee894445c080d06.png" alt="."/>    
   ↳ **Some games:** <img src="https://cdn.discordapp.com/attachments/820557032016969751/952448114810318919/g_fCBh_ccmnRUswmiXDknHzp6LJnkjfFztmQpl2tzfeFWhfrSBK6F1iyhPgF94pPcQMw512.png" alt="." width="16" height="16"/> [Muse Dash](https://store.steampowered.com/app/774171/Muse_Dash/), <img src="https://i.ppy.sh/013ed2c11b34720790e74035d9f49078d5e9aa64/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f4272616e645f6964656e746974795f67756964656c696e65732f696d672f75736167652d66756c6c2d636f6c6f75722e706e67" alt="." width="16" height="16"/> [Osu!](https://osu.ppy.sh/), <img src="https://cdn.discordapp.com/attachments/820557032016969751/952448941201428540/KGhkiIABcwb0ZdwWMfGGBsHCb6gQbQNX.png" alt="." width="16" height="16"/> [Valorant](https://playvalorant.com/vi-vn/), ...
    
