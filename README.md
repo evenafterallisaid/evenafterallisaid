@@ -1,10 +1,6 @@
 # Hello! 👋
 
-<div align="center">
-  <a href="https://discord.com/users/778492891507982347">
-    <img src="https://lanyard.cnrad.dev/api/721746046543331449?theme=dark&bg=36454F&borderRadius=30px&animated=false&idleMessage=Coding%20at%20my%20best..%20probably%20">
-  </a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/778492891507982347)](https://discord.com/users/778492891507982347)
 
 ## About me
 
