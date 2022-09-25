@@ -4,7 +4,7 @@
 
 ## About me
 
-<details><summary>About me</summary>
+<details><summary>About Me</summary>
 <p>
   
 - <img src="https://cdn.discordapp.com/attachments/1016340658237227068/1023253446738055168/1f1ec-1f1e7.png" alt="." width="16" height="16"/> Idiot from the U.K.  
@@ -15,7 +15,7 @@
    
 </p>
 </details>
-<details><summary>Programming Languages I Use,</summary>
+<details><summary>Programming Languages I Use</summary>
 <p>
 
 - <img src="https://cdn.discordapp.com/emojis/932559343600156674.png?size=20" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/)
@@ -24,14 +24,14 @@
 
 </p>
 </details>
-<details><summary>Code Editor I Use,</summary>
+<details><summary>Code Editor I Use</summary>
 <p>
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="." width="16" height="16"/> [Visual Studio Code](https://code.visualstudio.com/)
 
 </p>
 </details>
-<details><summary>Operating Systems I Use,</summary>
+<details><summary>Operating Systems I Use</summary>
 <p>
 
 - <img src="https://cdn.discordapp.com/attachments/1016340658237227068/1023263291939758190/380491.png" alt="." width="16" height="16"/> [Windows 11](https://www.microsoft.com/en-us/windows/windows-11?r=1)
