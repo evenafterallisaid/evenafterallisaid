@@ -4,7 +4,7 @@
 
 ## About me
 
-<details><summary>My bio ?</summary>
+<details><summary>About me</summary>
 <p>
   
 - <img src="https://cdn.discordapp.com/attachments/1016340658237227068/1023253446738055168/1f1ec-1f1e7.png" alt="." width="16" height="16"/> Idiot from the U.K.  
