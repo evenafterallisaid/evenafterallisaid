@@ -42,7 +42,7 @@
 <details><summary>Social Media</summary>
 <p>
 
-- <img src="https://cdn.discordapp.com/emojis/941635070492553216.png" alt="." width="16" height="16"/> [Discord: ClydE#2462](https://discord.com/users/778492891507982347)
+- <img src="https://cdn.discordapp.com/emojis/941635070492553216.png" alt="." width="16" height="16"/> [Discord: ImCold#2462](https://discord.com/users/778492891507982347)
 
 </p>
 </details>
