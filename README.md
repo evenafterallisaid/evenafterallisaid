@@ -7,7 +7,7 @@
 <details><summary>About Me</summary>
 <p>
   
-- <img src="https://cdn.discordapp.com/attachments/1016340658237227068/1300771375589494794/download.jpg" alt="." width="16" height="16"/> Idiot from Sri Lanka  
+- <img src="https://cdn.discordapp.com/attachments/1016340658237227068/1023254909451259974/unknown.png" alt="." width="16" height="16"/> Idiot from Sri Lanka  
 - <img src="https://cdn.discordapp.com/emojis/952436840730861638.png" alt="." width="16" height="16"/> Discord.js Programmer 
 - <img src="https://tenor.com/view/zoomer-tide-pods-eating-snack-glasses-gif-16629132.gif" alt="."  width="16" height="16" /> I am a 16 year old zoomer 
 - 🎮 I play Open-world, FPS Games, Rhythm <img src="https://cdn.discordapp.com/attachments/1016340658237227068/1023256248893837352/images_ee894445c080d06.png" alt="."/>    
